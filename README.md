@@ -1,1 +1,1 @@
-# rock-paper-scissors
+In this project, I'm going to be creating a good old game of rock, paper, scissors using JavaScript. This is my very first JS project!
